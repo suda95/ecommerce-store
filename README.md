@@ -134,6 +134,6 @@ This project helped strengthen understanding of:
 
 ## Author
 
-Created by **[Your Name]**
+Created by **Sudeys ibrahim**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/suda95
